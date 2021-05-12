@@ -12,9 +12,9 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjoshis001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true>" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfixedbug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true>" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasjoshis001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unfixedbug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 <!-- Actual text -->
@@ -25,4 +25,4 @@ You can find me on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/vikasjoshis001
+[2]: https://www.linkedin.com/in/dhirajjadhav
