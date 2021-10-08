@@ -15,11 +15,11 @@
 
 
 <!-- Actual text -->
-
-You can find me on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
-
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/dhirajjadhav
+<p align="left">
+    <a href="https://www.linkedin.com/in/dhiraj-jadhav-344979199/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetan patil" height="30"
+            width="40" /></a>
+    <a href="https://www.instagram.com/unfixedbug_/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="unfixeedbug_" height="30"
+            width="40" /></a>
+</p>
