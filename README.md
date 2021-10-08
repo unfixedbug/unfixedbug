@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Editor-VSCode,Intellij-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JAVA,Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-AngularJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-NodeJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Android-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
