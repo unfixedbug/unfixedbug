@@ -17,16 +17,14 @@
 	</tr>
 	</a>
 </table>
-
-<details>
-	<summary><strong> 🌟 GitHub Stats </strong></summary>
-	<table>
+<summary><strong> 🌟 GitHub Stats </strong></summary>
+<table>
 		<tr>
 			<td>					
 				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=unfixedbug&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
 			</td>
 			<td>
-				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=unfixedbug&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
+				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=unfixedbug&theme=tokyonight" alt="Dhiraj's GitHub Streak" />
 			</td>
 		</tr>
 	</table>
@@ -42,7 +40,33 @@
 			</td>
 		</tr>
 	</table>
-</details>
+
+<!-- 
+<details>
+	<summary><strong> 🌟 GitHub Stats </strong></summary>
+	<table>
+		<tr>
+			<td>					
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=unfixedbug&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
+			</td>
+			<td>
+				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=unfixedbug&theme=tokyonight" alt="Dhiraj's GitHub Streak" />
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=unfixedbug&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+			</td>
+		</tr>
+		<tr colspan="2">
+			<td>
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unfixedbug&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+			</td>
+		</tr>
+	</table>
+</details> -->
 
 
 <h3 align='center'>Connect with me  📫 </h3>
