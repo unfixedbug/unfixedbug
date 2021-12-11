@@ -1,8 +1,11 @@
-# Hi there I'm Dhiraj 
+> aree
+<p align = 'center'>
+<img src="https://user-images.githubusercontent.com/60098505/145683229-7cf5efd8-0427-46b5-a95d-de3be1ac4555.gif" width="400" >
+</p>
+																		  
+<summary><strong> 🌟 Some Stats </strong></summary>
 
-### Some Stats
-
-<table tableborder=0>
+<table align='center' >
 	<tr>		
 		<th width="50%"><a align="center" href="https://github.com/unfixedbug?tab=overview#year-list-container?">✨ wakatime stats</a></th>
 		<th width="50%"><a align="center" href="https://github.com/unfixedbug?tab=repositories?">🌟 Top Lanaguages</a></th>
