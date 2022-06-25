@@ -1,6 +1,6 @@
-> Life updates : 
+> For Real  : 
 <p align = 'center'>
-<img src="https://pbs.twimg.com/media/EozguLNWMAIdkJF.jpg:large" width="400" >
+<img src="https://pbs.twimg.com/media/EozguLNWMAIdkJF.jpg:large" width="900" height="300" >
 </p>
 																		  
 <summary><strong> 🌟 Some Stats </strong></summary>
