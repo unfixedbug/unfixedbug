@@ -34,7 +34,7 @@
 	<table>
 		<tr>
 			<td>
-				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=unfixedbug&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+				<img width="100%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=unfixedbug&theme=gotham" alt="GitHub Streak" alt="Daily Contribution Graph" />
 			</td>
 		</tr>
 		<tr colspan="2">
